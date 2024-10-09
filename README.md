@@ -26,3 +26,4 @@
 ## 📚 Resources
 
 - [Icon Collections List](https://github.com/iconify/icon-sets/blob/master/collections.md) and [Icons Search App](https://icon-sets.iconify.design/) of [Iconify](https://github.com/iconify).
+- [yesicon](https://yesicon.app/) catalog.
