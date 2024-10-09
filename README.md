@@ -5,7 +5,7 @@
 ⚠️: third-party
 ⭕: not supported
 
-## Web Environment
+## 🌐 Web Environment
 
 | Icon Set | JS | Angular | React | Vue | SVG | Webfont | Figma | License |
 |---|---|---|---|---|---|---|---|---|
@@ -16,8 +16,12 @@
 | [Font Awesome](https://fontawesome.com/) | [JS](https://docs.fontawesome.com/web/use-with/require-js) | [Angular](https://docs.fontawesome.com/web/use-with/angular) | [React](https://docs.fontawesome.com/web/use-with/react) | [Vue](https://docs.fontawesome.com/web/use-with/vue) | [SVG](https://docs.fontawesome.com/web/setup/host-yourself/svg-js) | [Webfont](https://docs.fontawesome.com/web/use-with/scss) | [Figma Plugin](https://docs.fontawesome.com/desktop/add-icons/figma-plugin) | [Font Awesome Free License](https://github.com/FortAwesome/Font-Awesome?tab=License-1-ov-file#readme) / [Pro](https://fontawesome.com/license) |
 | [Tabler Icons](https://tabler.io/icons) | ⭕ | [Angular](https://github.com/tabler/tabler-icons?tab=readme-ov-file#angular)(⚠️) | [React](https://github.com/tabler/tabler-icons?tab=readme-ov-file#react) | [Vue](https://github.com/tabler/tabler-icons?tab=readme-ov-file#vue) | [SVG](https://tabler.io/icons) | [Webfont](https://github.com/tabler/tabler-icons?tab=readme-ov-file#iconfont) | [Figma Plugin](https://www.figma.com/community/plugin/1169807996149376642/tabler-icons) | [MIT](https://github.com/tabler/tabler-icons?tab=MIT-1-ov-file#readme) |
 
-## For Designers
+## 🎨 For Designers
 
 | Icon Set | Producer | Figma |
 |---|---|---|
 | [Solar Icon Set](https://github.com/480-Design/Solar-Icon-Set) | [480 Design](https://www.figma.com/@480design) | [Figma](https://www.figma.com/community/file/1166831539721848736/solar-icons-set) |
+
+## 📚 Resources
+
+- [Icon Collections List](https://github.com/iconify/icon-sets/blob/master/collections.md) and [Icons Search App](https://icon-sets.iconify.design/) of [Iconify](https://github.com/iconify).
