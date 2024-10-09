@@ -5,6 +5,8 @@
 ⚠️: third-party
 ⭕: not supported
 
+## Web Environment
+
 | Icon Set | JS | Angular | React | Vue | SVG | Webfont | Figma |
 |---|---|---|---|---|---|---|---|
 | [MDI Icon Set](https://pictogrammers.com/libraries/) | [JS](https://github.com/Templarian/MaterialDesign-JS) | [Angular](https://github.com/Templarian/MaterialDesign-Angular-Material) | [React](https://github.com/Templarian/MaterialDesign-React) | [Vue](https://github.com/therufa/mdi-vue) (⚠️) | [SVG](https://github.com/Templarian/MaterialDesign-SVG) | [Webfont](https://github.com/Templarian/MaterialDesign-Webfont) | ⭕ |
