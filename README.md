@@ -1,4 +1,8 @@
-# icon-set-comparisons
+# Icon Set Comparisons
+
+This icon set comparison list is for web developers and designers to choose the right icon set for their projects. The list includes the availability of JavaScript, Angular, React, Vue, SVG, Webfont, Figma, and the license of each icon set.
+
+In many cases we need to know the availability of the icon set in different environments. Especially with module fedaration and similar technologies, we need to know if the icon set is available in different environments. Also, designers need to know if the icon set is available in Figma. Then teams can work together more efficiently.
 
 ## Emojis
 
@@ -29,3 +33,7 @@
 
 - [Icon Collections List](https://github.com/iconify/icon-sets/blob/master/collections.md) and [Icons Search App](https://icon-sets.iconify.design/) of [Iconify](https://github.com/iconify).
 - [yesicon](https://yesicon.app/) catalog.
+
+## 📝 Contribution
+
+Feel free to contribute to this list. You can add new icon sets or update the existing ones. Please just follow the current table format.
