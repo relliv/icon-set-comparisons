@@ -24,6 +24,7 @@ These emojis are used to indicate the availability or support of the icon set in
 | [Phosphor Icons](https://phosphoricons.com/) | [JS](https://github.com/phosphor-icons/webcomponents) | ⭕ | [React](https://github.com/phosphor-icons/react) | [Vue](https://github.com/phosphor-icons/vue) | [SVG](https://phosphoricons.com/) | [Webfont](https://github.com/phosphor-icons/pack) | [File](https://www.figma.com/community/file/903830135544202908) / [Plugin](https://www.figma.com/community/plugin/898620911119764089/phosphor-icons) | [MIT](https://github.com/phosphor-icons/core?tab=MIT-1-ov-file#readme) |
 | [Feather Icons](https://feathericons.com/) | [JS](https://github.com/feathericons/feather?tab=readme-ov-file#1-install) | [Angular](https://github.com/michaelbazos/angular-feather) ⚠️ | [React](https://github.com/feathericons/react-feather) ⚠️ | [Vue](https://github.com/feathericons/react-feather) ⚠️ | [SVG](https://github.com/feathericons/feather?tab=readme-ov-file#svg-sprite) | ⭕ | [Figma File](https://github.com/feathericons/feather?tab=readme-ov-file#figma) | [MIT](https://github.com/feathericons/feather?tab=MIT-1-ov-file#readme) |
 | [Lucide](https://lucide.dev/) (*fork of [Feather Icons](https://github.com/feathericons/feather)*) | [JS](https://github.com/lucide-icons/lucide/tree/main/packages/lucide) | [Angular](https://github.com/lucide-icons/lucide/tree/main/packages/lucide-angular) | [React](https://github.com/lucide-icons/lucide/tree/main/packages/lucide-react) | [Vue](https://github.com/lucide-icons/lucide/tree/main/packages/lucide-vue) | [SVG](https://lucide.dev/icons/) | ⭕ | [File](https://www.figma.com/community/file/1080851853377107006) / [Plugin](https://www.figma.com/community/plugin/939567362549682242/lucide-icons) | [ISC License](https://github.com/lucide-icons/lucide?tab=ISC-1-ov-file#readme) |
+| [RemixIcon](https://remixicon.com/) | ⭕ | [Angular](https://github.com/adisreyaj/angular-remix-icon) ⚠️ | [React](https://github.com/Remix-Design/RemixIcon?tab=readme-ov-file#react) | [Vue](https://github.com/Remix-Design/RemixIcon?tab=readme-ov-file#vue-3) | [SVG](https://github.com/Remix-Design/RemixIcon?tab=readme-ov-file#svg-sprite-usage) | [Webfont](https://github.com/Remix-Design/RemixIcon?tab=readme-ov-file#webfont-usage) | [Figma Plugin](https://www.figma.com/community/plugin/1089569154784319246/remixicon) | [Apache-2.0](https://github.com/Remix-Design/RemixIcon?tab=Apache-2.0-1-ov-file#readme) |
 
 ## 🎨 For Designers
 
@@ -35,6 +36,7 @@ These emojis are used to indicate the availability or support of the icon set in
 
 - [Icon Collections List](https://github.com/iconify/icon-sets/blob/master/collections.md) and [Icons Search App](https://icon-sets.iconify.design/) of [Iconify](https://github.com/iconify).
 - [yesicon](https://yesicon.app/) catalog.
+- [streamline](https://www.streamlinehq.com/) catalog.
 
 ## 📝 Contribution
 
