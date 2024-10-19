@@ -4,12 +4,14 @@ This icon set comparison list is for web developers and designers to choose the 
 
 In many cases we need to know the availability of the icon set in different environments. Especially with module fedaration and similar technologies, we need to know if the icon set is available in different environments. Also, designers need to know if the icon set is available in Figma. Then teams can work together more efficiently.
 
-## Emojis
+## ✨ Emojis
+
+These emojis are used to indicate the availability or support of the icon set in different environments.
 
 ⚠️: third-party
 ⭕: not supported
 
-## 🌐 Web Environment
+## 💻 Web Environment
 
 | Icon Set | JS | Angular | React | Vue | SVG | Webfont | Figma | License |
 |---|---|---|---|---|---|---|---|---|
