@@ -37,6 +37,7 @@ These emojis are used to indicate the availability or support of the icon set in
 - [Icon Collections List](https://github.com/iconify/icon-sets/blob/master/collections.md) and [Icons Search App](https://icon-sets.iconify.design/) of [Iconify](https://github.com/iconify).
 - [yesicon](https://yesicon.app/) catalog.
 - [streamline](https://www.streamlinehq.com/) catalog.
+- [icones](https://icones.js.org/)
 
 ## 📝 Contribution
 
